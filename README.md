@@ -6,6 +6,7 @@
 
 ```python
 python -m venv venv
+```
 
 2. Activate the virtual enviroment
 
