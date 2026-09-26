@@ -18,18 +18,22 @@ python -m venv venv
 
 ```python
 pip install uvicorn
+```
 
 4. Install Fastapi
 
 ```python
 pip install fastapi
+```
 
 ## Run app with python:
 
 ```python
 python main.py
+```
 
 ## Run app with uvicorn:
 
-```
+``
 uvicorn presentation.webapicreditoptimizer:app --host {your_ip} --port 7000 --reload
+``
