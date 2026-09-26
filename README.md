@@ -1,3 +1,5 @@
+![API_CreditOptimizer](assets/credit_opt_26_09_26.png "API CreditOptimizer")
+
 # creditOptimizer
 
 ## To run the virtual enviroment follow the next steps:
